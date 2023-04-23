@@ -1,1 +1,6 @@
-/frontend
+node_modules
+fly.toml
+Dockerfile
+.dockerignore
+.gitignore
+build/
